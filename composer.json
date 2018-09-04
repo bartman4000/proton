@@ -1,0 +1,19 @@
+{
+  "description": "Dev test for Proton",
+  "authors": [{"name": "Bartlomiej Olewinski"}],
+  "autoload": {
+    "psr-4": {
+      "Proton\\": "src/",
+      "Proton\\Test\\": "tests/"
+    }
+  },
+  "require": {
+    "php": "^7.1",
+    "ext-pdo": "*",
+    "ext-http": "*",
+    "monolog/monolog": "^1.23.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.4"
+  }
+}
