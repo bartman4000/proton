@@ -1,7 +1,5 @@
 # Proton Database Inconsistency checker
 
-Dev test by Bartlomiej Olewinski <bartlomiej.olewinski@gmail.com>
-
 ## Build
 
 ```
